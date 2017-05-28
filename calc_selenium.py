@@ -2,6 +2,8 @@
 # Available @ http://teaching.csse.uwa.edu.au/units/CITS5501/Assinments/calculator.html
 # By Aden Huen
 
+#Tests web interface by input space partitioning
+
 import unittest
 from selenium import webdriver
 from selenium.webdriver.support import expected_conditions
