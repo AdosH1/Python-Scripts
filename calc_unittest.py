@@ -2,6 +2,8 @@
 # Available @ http://teaching.csse.uwa.edu.au/units/CITS5501/Assinments/calculator.html
 # By Aden Huen
 
+# Attempts finite state machine (FSM) analysis and full edge / predicate coverage
+
 #methods ending with 'c' are deemed critical for the operation of the calculator
 # methods ending with 'n' are deemed non-critical
 
